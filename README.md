@@ -80,7 +80,7 @@ All models were evaluated using:
 
 - ROC-AUC Score
 
- <img width="399" height="206" alt="Screenshot 2025-12-09 at 12 56 12 AM" src="https://github.com/user-attachments/assets/c858f2b5-ac64-4a44-aa42-6d743d0f2e81" />
+ <img width="468" height="199" alt="Screenshot 2025-12-10 at 2 45 50 PM" src="https://github.com/user-attachments/assets/0e2c628e-48d8-4a28-91b1-e3c8b496770d" />
 
 ## 📈 ROC Curves
 
